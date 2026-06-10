@@ -10,6 +10,7 @@ suckless build:
 
 navigate to the directory with the flake.nix 
 and invoke the develop environment with:
+
 $ nix develop .#suckless
 
 
